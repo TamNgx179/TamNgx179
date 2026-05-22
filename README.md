@@ -78,19 +78,6 @@ I enjoy building practical web applications, exploring new technologies, and imp
 - Implemented deposit transaction processing using Ethers.js.
 - Worked with MongoDB to store and manage application data.
 
-## 📌 What I’m Working On
-
-I am currently focusing on improving my skills in:
-
-- Full-stack web development
-- RESTful API design
-- Backend development with Node.js and Spring Boot
-- Modern frontend development with React.js and Next.js
-- Database design with MongoDB and SQL Server
-- Docker-based application deployment
-- Software design and system modeling
-- Business analysis and requirement documentation
-
 ## 📫 Contact Me
 
 - GitHub: [github.com/TamNgx179](https://github.com/TamNgx179)
