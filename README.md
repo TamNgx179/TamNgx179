@@ -41,32 +41,9 @@ I enjoy building practical web applications, exploring new technologies, and imp
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white)
 
-## 💼 Work Experience
-
-### Business Analyst Intern  
-**HONEYNET Joint Stock Company**  
-📅 June 2025 - Present
-
-- Gathered and analyzed business requirements from stakeholders.
-- Translated business needs into clear functional specifications.
-- Designed and documented business process workflows to support system development.
-- Assisted in defining system functionalities and user interaction flows for new features.
-- Worked closely with development teams to improve system understanding and implementation quality.
-
 ## 📌 Featured Projects
 
-### 1. Social Welfare Application
-
-**Role:** Business Analyst Intern  
-**Project Type:** Web/Application System
-
-- Designed the user interface and overall structure of the application to ensure usability and clear navigation.
-- Defined system functionalities and proposed technical solutions for implementing core features.
-- Created user documentation and application usage guidelines.
-- Supported the development process by clarifying requirements and improving user flows.
-- Focused on building a consistent user experience and practical application workflow.
-
-### 2. Blockchain-Integrated E-commerce Platform
+### 1. Blockchain-Integrated E-commerce Platform
 
 **Role:** Backend Developer  
 **Tech Stack:** Node.js, Express.js, Solidity, Ethers.js, Hardhat, MongoDB
