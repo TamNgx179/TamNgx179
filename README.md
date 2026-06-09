@@ -41,20 +41,6 @@ I enjoy building practical web applications, exploring new technologies, and imp
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📌 Featured Projects
-
-### 1. Blockchain-Integrated E-commerce Platform
-
-**Role:** Backend Developer  
-**Tech Stack:** Node.js, Express.js, Solidity, Ethers.js, Hardhat, MongoDB
-
-- Developed backend APIs for core system features such as user authentication and account management.
-- Built backend logic for e-commerce application functionalities.
-- Developed and deployed a smart contract using Solidity and Hardhat.
-- Integrated blockchain functionality into backend APIs.
-- Implemented deposit transaction processing using Ethers.js.
-- Worked with MongoDB to store and manage application data.
-
 ## 📫 Contact Me
 
 - GitHub: [github.com/TamNgx179](https://github.com/TamNgx179)
