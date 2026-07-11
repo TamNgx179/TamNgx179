@@ -8,7 +8,6 @@ I enjoy building practical web applications, exploring new technologies, and imp
 
 - 🎓 Student at **University of Information Technology – VNUHCM (UIT)**
 - 💻 Interested in **Web Development**, **Backend Development**, and **Full-stack Applications**
-- 🔍 Experienced in business analysis, requirement gathering, and system workflow design
 - 🤝 Good teamwork mindset and communication skills
 - 📚 Always eager to learn new technologies and improve myself
 - 🌍 Able to use English effectively for learning and communication
@@ -44,7 +43,7 @@ I enjoy building practical web applications, exploring new technologies, and imp
 ![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 📫 Contact Me
-
+- Portfolio: [tam-nguyen-portfolio-eight.vercel.app](https://tam-nguyen-portfolio-eight.vercel.app/)
 - GitHub: [github.com/TamNgx179](https://github.com/TamNgx179)
 - LinkedIn: [linkedin.com/in/minhtam179](https://www.linkedin.com/in/minhtam179)
 - Email: minhtam1792005@gmail.com
