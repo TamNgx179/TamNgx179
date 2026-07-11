@@ -51,4 +51,3 @@ I enjoy building practical web applications, exploring new technologies, and imp
 ---
 
 ⭐ Thanks for visiting my profile!
-```
