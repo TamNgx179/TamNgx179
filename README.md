@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://tam-nguyen-portfolio-eight.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/minhtam179"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="mailto:minhtam1792005@gmail.com"><img src="https://img.shields.io/badge/Email-0891B2?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Tam" /></a>
+  <a href="https://tam-nguyen-portfolio-eight.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjxlbGxpcHNlIGN4PSIxMiIgY3k9IjEyIiByeD0iNCIgcnk9IjEwIi8%2BPHBhdGggZD0iTTIgMTJoMjAiLz48L3N2Zz4%3D" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/minhtam179"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BTGlua2VkSW48L3RpdGxlPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D" alt="LinkedIn" /></a>
+  <a href="mailto:minhtam1792005@gmail.com"><img src="https://img.shields.io/badge/Email-0891B2?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxLjI2ZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjU2IDIwNCI%2BPGRlZnM%2BPGxpbmVhckdyYWRpZW50IGlkPSJTVkdIekRiSGN3RyIgeDE9IjE2NSIgeDI9IjE2NSIgeTE9IjQ0IiB5Mj0iMTY2IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI%2BPHN0b3Agc3RvcC1jb2xvcj0iIzYwZDY3MyIvPjxzdG9wIG9mZnNldD0iLjE3IiBzdG9wLWNvbG9yPSIjNDJjODY4Ii8%2BPHN0b3Agb2Zmc2V0PSIuMzkiIHN0b3AtY29sb3I9IiMwZWJjNWYiLz48c3RvcCBvZmZzZXQ9Ii42MiIgc3RvcC1jb2xvcj0iIzAwYTliYiIvPjxzdG9wIG9mZnNldD0iLjg2IiBzdG9wLWNvbG9yPSIjM2M5MGZmIi8%2BPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjMzE4NmZmIi8%2BPC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9IlNWRzQxQVRYYm9aIiB4MT0iOCIgeDI9IjE4NCIgeTE9IjQ2LjEzIiB5Mj0iNDYuMTMiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBvZmZzZXQ9Ii4wOCIgc3RvcC1jb2xvcj0iI2ZmNjNhMCIvPjxzdG9wIG9mZnNldD0iLjMiIHN0b3AtY29sb3I9IiNmYzQxM2QiLz48c3RvcCBvZmZzZXQ9Ii41IiBzdG9wLWNvbG9yPSIjZmM0MTNkIi8%2BPHN0b3Agb2Zmc2V0PSIuNjUiIHN0b3AtY29sb3I9IiNmYzQxM2QiLz48c3RvcCBvZmZzZXQ9Ii43MiIgc3RvcC1jb2xvcj0iI2ZjNWMzMCIvPjxzdG9wIG9mZnNldD0iLjg2IiBzdG9wLWNvbG9yPSIjZmViMTBjIi8%2BPHN0b3Agb2Zmc2V0PSIuOTEiIHN0b3AtY29sb3I9IiNmZWM3MDAiLz48c3RvcCBvZmZzZXQ9Ii45NiIgc3RvcC1jb2xvcj0iI2ZmZGIwZiIvPjwvbGluZWFyR3JhZGllbnQ%2BPC9kZWZzPjxwYXRoIGZpbGw9InVybCgjU1ZHSHpEYkhjd0cpIiBkPSJNMTQ2IDQ0aDM4djExMGMwIDYuNjI3LTUuMzczIDEyLTEyIDEyaC0yMGE2IDYgMCAwIDEtNi02eiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTExLjYzNiAtMzcuODE4KXNjYWxlKDEuNDU0NTQpIi8%2BPHBhdGggZmlsbD0iI2ZjNDEzZCIgZD0iTTU1LjI3MyAyNi4xODJIMHYxNjBjMCA5LjYzOCA3LjgxNiAxNy40NTQgMTcuNDU1IDE3LjQ1NGgyOS4wOWE4LjcyNyA4LjcyNyAwIDAgMCA4LjcyOC04LjcyOHoiLz48cGF0aCBmaWxsPSJ1cmwoI1NWRzQxQVRYYm9aKSIgZD0iTTM5LjIyNiAzMC40NTZjLTguMDMzLTYuNzUyLTIwLjAxOC01LjcxNC0yNi43NyAyLjMxOWMtNi43NTIgOC4wMzItNS43MTQgMjAuMDE3IDIuMzE5IDI2Ljc3bDc2LjA3OCA2My45NDlhOCA4IDAgMCAwIDEwLjI5NSAwbDc2LjA3OC02My45NWM4LjAzMi02Ljc1MiA5LjA3LTE4LjczNyAyLjMxOC0yNi43N2MtNi43NTItOC4wMzItMTguNzM3LTkuMDctMjYuNzY5LTIuMzE4TDk2IDc4LjE4eiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTExLjYzNiAtMzcuODE4KXNjYWxlKDEuNDU0NTQpIi8%2BPC9zdmc%2B" alt="Email Tam" /></a>
   <a href="https://github.com/TamNgx179"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub TamNgx179" /></a>
 </p>
 
@@ -26,78 +26,82 @@ I'm an **Information Technology student at UIT — VNUHCM**, graduating in **Jun
 - 🤝 I enjoy thoughtful teamwork, clean engineering, and learning by building.
 - 💬 Comfortable collaborating and communicating in **English**.
 
-## 💼 Where I've built things
+## 💼 Work Experience
 
-### AlphaSphere · Full-stack Developer Intern
+### AlphaSphere · Fullstack Developer Intern
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+<img src="https://bullmq.io/images/bullmq-logo.png" height="20" alt="BullMQ" />
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![DigitalOcean Spaces](https://img.shields.io/badge/DigitalOcean_Spaces-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
 
 **Jul 2026 – Oct 2026**
 
-- **Developer tooling:** Built an AI-assisted coding harness with structured project context, reusable tools, and development workflows.
-- **Background processing:** Built an Instagram/X feed-sync pipeline with Redis and BullMQ to deliver updates to digital signage screens.
-- **Billing & storage:** Implemented Stripe subscription flows with webhook handling and idempotency protection, plus quarantined uploads and presigned access through DigitalOcean Spaces.
+- Built an **AI-assisted coding harness** that provides structured project context, reusable tools, and development workflows to support consistent software implementation and engineering tasks.
+- Developed an **asynchronous social-feed synchronization pipeline** for Instagram and X using Redis and BullMQ workers, processing updates in dedicated background jobs and delivering new content to digital signage screens without blocking the main application.
+- Built **Stripe subscription billing flows** for plan changes, proration, trials, and usage-based charging, with webhook-driven event handling and idempotency-key protection to prevent duplicate operations and improve payment-state consistency.
+- Designed a **secure media-storage workflow** using DigitalOcean Spaces, introducing a quarantine stage for newly uploaded files and presigned URLs for controlled asset access.
 
-<details>
-<summary>Stack & implementation details</summary>
+### HONEYNET Joint Stock Company · Backend Developer Intern
 
-**TypeScript · NestJS · React · Vite · MongoDB · Redis · BullMQ · Docker · DigitalOcean Spaces**
-
-- Moved social-feed synchronization into dedicated background workers to keep the main application responsive.
-- Supported subscription plan changes, proration, trials, and usage-based charging.
-- Added a quarantine stage for newly uploaded media and controlled asset access with presigned URLs.
-
-</details>
-
-### HONEYNET · Backend Developer Intern
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-181717?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Jan 2026 – Jun 2026**
 
-- **Authentication:** Built APIs for registration, OTP verification, login, password setup, account recovery, and password reset.
-- **Application services:** Designed PostgreSQL models and services for news/events, donation activities, search, and comment approval.
-- **Notifications:** Built real-time notification APIs and request validation for application submission workflows.
+- Developed backend APIs for **authentication and account management**, covering registration, OTP verification, login, password setup, account recovery, and password reset workflows.
+- Designed **PostgreSQL data models and backend services** for news/events, donation activities, activity search, and comment approval workflows.
+- Built **real-time notification APIs** with robust request validation for application submission workflows, improving consistency and reliability of backend request handling.
 
-**TypeScript · Node.js · Express.js · PostgreSQL**
+## 🚀 Featured Project
 
-## 🚀 Featured build · DeepReader
+### [DeepReader — AI-Powered Reading Platform ↗](https://github.com/23520904/deepreader)
 
-### [A reading platform that helps you learn from your documents ↗](https://github.com/23520904/deepreader)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-181717?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0891B2?style=flat-square&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Fullstack Developer · Team of 6**
 
 Upload a PDF or EPUB, ask questions grounded in its content, and turn what you read into summaries and flashcards.
 
-**Full-stack Developer · Team of 6**
-
-| Read & ask | Process & retrieve | Protect & deliver |
-| --- | --- | --- |
-| Citation-grounded Q&A, summaries, and **1–50 flashcards** | Asynchronous ingestion with **Gemini embeddings + Qdrant** | **Redis rate limiting** for AI and authentication endpoints |
-
-**Built with:** Java · Spring Boot · Next.js · Tailwind CSS · PostgreSQL · MongoDB · Redis · Qdrant · Docker
-
-<details>
-<summary><b>Under the hood — my contributions</b></summary>
-
-- Built a **RAG-powered PDF/EPUB workflow** with Gemini embeddings, Qdrant, and Haystack, supporting documents up to **25 MB**.
-- Designed asynchronous ingestion with **1,500-character chunks**, **200-character overlap**, **768-dimensional embeddings**, and **50-chunk batches**.
-- Implemented Redis-backed rate limiting with different quotas for AI inference and authentication workloads.
-- Improved Next.js performance and SEO, achieving **90+ Lighthouse scores** on mobile and desktop and **top-five Google results for selected target keywords**.
-
-</details>
+- Built a **RAG-powered PDF/EPUB learning workflow** using Gemini embeddings, Qdrant, and Haystack, supporting uploads up to **25MB**, citation-grounded Q&A, summaries, and generation of **1-50 flashcards**.
+- Designed an **asynchronous ingestion pipeline** that splits documents into **1,500-character chunks** with **200-character overlap**, generates **768-dimensional embeddings** in **50-chunk batches**, and indexes them for vector search.
+- Implemented **Redis-backed rate limiting** to protect AI inference and authentication endpoints, enforcing differentiated request quotas based on API workload.
+- Optimized **Next.js page performance and SEO**, achieving **90+ Lighthouse scores** across mobile and desktop and reaching top-five Google Search results for selected target keywords.
 
 [Explore the repository →](https://github.com/23520904/deepreader)
 
 ## 🧰 My toolkit
 
-**Languages**
+**Languages & markup**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
 
 **Backend & async**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-181717?style=flat-square&logo=express&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=flat-square)
+![Express.js](https://img.shields.io/badge/Express.js-181717?style=flat-square&logo=express&logoColor=white)
+<img src="https://bullmq.io/images/bullmq-logo.png" height="20" alt="BullMQ" />
 
 **Frontend**
 
@@ -106,21 +110,31 @@ Upload a PDF or EPUB, ask questions grounded in its content, and turn what you r
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0891B2?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-**Data & infrastructure**
+**Databases & search**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BTWljcm9zb2Z0IFNRTCBTZXJ2ZXI8L3RpdGxlPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNNC43MjQgMi41MDVzLS4wOC4xMjctLjAwNC4zMTVjLjA0Ni4xMTYuMTg2LjI1Ni4zNC40MDQgMCAwIDEuNjE1IDEuNTc2IDEuODEzIDEuODA0Ljg5NSAxLjAzMyAxLjI4NCAyLjA1IDEuMzIgMy40NTMuMDIyLjktLjE1MSAxLjY5Mi0uNTczIDIuNjEzLS43NTYgMS42NDktMi4zNSAzLjQ2OC00LjgxIDUuNDlsLjM2LS4xMmMuMjMzLS4xNzMuNTQ4LS4zNTkgMS4yOTItLjc2NiAxLjcxMy0uOTM2IDMuNjM2LTEuNzk4IDUuOTk5LTIuNjg2IDMuMzk5LTEuMjc3IDguOTktMi43NzYgMTIuMTcyLTMuMjYzbC4zMzEtLjA1MS0uMDUtLjA4Yy0uMjkyLS40NTItLjQ5LS43MzEtLjczLTEuMDI3LS42OTctLjg2My0xLjU0Mi0xLjU2Ny0yLjU3Ny0yLjE0Ni0xLjQyMi0uNzk3LTMuMjY3LTEuNDE2LTUuNi0xLjg4YTY3LjkzIDY3LjkzIDAgMDAtMi4xOTEtLjM3NSAyMDkuMjkgMjA5LjI5IDAgMDEtMy45MjQtLjY0Yy0uNDI1LS4wNzUtMS4wNi0uMTgxLTEuNDgxLS4yNzJhOS40MDQgOS40MDQgMCAwMS0uOTYxLS4yNThjLS4yNjgtLjEwNS0uNjQ1LS4yMDctLjcyNi0uNTE1em0uOTM2LjkwOWMuMDAzLS4wMDIuMDYzLjAxNy4xMzcuMDQyLjEzNi4wNDYuMzE2LjEuNTI2LjE1OS4xNDYuMDQuMzA3LjA4NC40NzkuMTI3LjIxOC4wNTYuMzk5LjEwNC40MDEuMTA3LjAyNC4wMjcuMzkxIDEuMTk4LjUxNiAxLjY0Ny4wNDguMTcyLjA4NC4zMTUuMDgxLjMxOGEuNzg5Ljc4OSAwIDAxLS4wOS0uMTRjLS40MjQtLjc0Ni0xLjA5Ny0xLjUwNS0xLjg3NC0yLjExNmEzLjEwNCAzLjEwNCAwIDAxLS4xNzYtLjE0NHptMS43OS40OTRjLjAxOC0uMDAxLjA5OS4wMTIuMTk1LjAzNC42MTkuMTM2IDEuNzI1LjM1IDIuNDM1LjQ3LjExOS4wMi4yMTYuMDQuMjE2LjA0N2EuMzQ4LjM0OCAwIDAxLS4wOTguMDYyYy0uMTE5LjA2LS42MDIuMzQ5LS43NjMuNDU3LS40MDMuMjctLjc2Ni41NTktMS4wMy44MjFhNS40IDUuNCAwIDAxLS4xOTcuMTkyYy0uMDAzIDAtLjAyMi0uMDYyLS4wNDEtLjEzN2ExMi4wOSAxMi4wOSAwIDAwLS42NS0xLjc3OSAxLjgwMSAxLjgwMSAwIDAxLS4wNzEtLjE2NWMwLS4wMDEgMC0uMDAyLjAwNC0uMDAyem0zLjE0Ny41OThjLjAyLjAwNy4wNi4xMy4xMjkuNDA0YTYuMDUgNi4wNSAwIDAxLjE1MyAxLjk3N2wtLjAxMi4wMzgtLjE4Ny0uMDZjLS4zODgtLjEyNC0xLjAyLS4zMS0xLjU2Mi0uNDZhNi42MjUgNi42MjUgMCAwMS0uNTYtLjE3YzAtLjAyMi40NDktLjQ3MS42NDItLjY0Mi4zNjktLjMyNiAxLjM2Mi0xLjA5OCAxLjM5Ny0xLjA4N3ptLjI1LjAzNmMuMDExLS4wMSAxLjUwNC4yNDggMi4xODIuMzc4LjUwNi4wOTcgMS4yMzcuMjUgMS4yODEuMjY5LjAyMi4wMDgtLjA1NC4wNS0uMjk3LjE2LS45Ni40MzItMS42NzIuODItMi4zOCAxLjI5My0uMTg2LjEyNC0uMzQxLjIyNi0uMzQ0LjIyNi0uMDA0IDAtLjAwNi0uMTA0LS4wMDYtLjIzIDAtLjY5LS4xMzktMS4zODctLjM5MS0xLjk3NmEuNjg4LjY4OCAwIDAxLS4wNDUtLjEyem0zLjg2Ljc2NGMuMDExLjAxMS0uMDM4LjMwNi0uMDguNDgtLjEzMi41NC0uNDgyIDEuMzQ0LS45MTQgMi4wOTlhMi4yNiAyLjI2IDAgMDEtLjE1Mi4yNDYgMS40OTkgMS40OTkgMCAwMS0uMjE5LS4xMTVjLS40MjItLjI0Ny0uOS0uNDgtMS40MjUtLjY5N2E0LjU4OCA0LjU4OCAwIDAxLS4yNzgtLjEyYy0uMDI0LS4wMjIgMS4xNDMtLjc5NSAxLjc2Mi0xLjE2Ni40OTUtLjI5NyAxLjI5Mi0uNzQxIDEuMzA2LS43Mjd6bS4yNzYuMDQzYy4wMzMgMCAuNjk1LjE4IDEuMDM3LjI4My44NTMuMjU1IDEuODM3LjYxNCAyLjQ3NS45MDRsLjI2NS4xMi0uMTg3LjA0M2MtMS41NjEuMzYtMi45Ljc3My00LjE4OCAxLjI5Ni0uMTA3LjA0NC0uMi4wOC0uMjA3LjA4YS45MTEuOTExIDAgMDEuMDc1LS4xODVjLjM4OC0uODIzLjYzOC0xLjY4Ny43MDMtMi40Mi4wMDYtLjA2Ny4wMTgtLjEyMS4wMjctLjEyMXptLTYuNTggMS41MTJjLjAxLS4wMS41MTQuMTA4Ljc4OS4xODUuNDEzLjExNiAxLjI5Mi40MSAxLjI5Mi40MzMgMCAuMDA0LS4wOTcuMDg5LS4yMTUuMTg4LS40NzUuMzk3LS45MzQuODEzLTEuNDgzIDEuMzQzYTUuMjcgNS4yNyAwIDAxLS4zMDguMjg1Yy0uMDA3IDAtLjAxLS4wMjMtLjAwNi0uMDUuMDgzLS42MTEuMDY1LTEuMzk1LS4wNS0yLjE5M2ExLjI5IDEuMjkgMCAwMS0uMDItLjE5em0xMC42MS4wMWMuMDA3LjAwOC0uMjM0LjM4NS0uMzg0LjYtLjIyLjMxNC0uNTM3LjcyNi0xLjI2MSAxLjYzN2wtLjk1NCAxLjIwMmE5LjQxOCA5LjQxOCAwIDAxLS4yNjkuMzMzYy0uMDAzIDAtLjA1LS4wNjYtLjEwMy0uMTQ2YTcuNTg0IDcuNTg0IDAgMDAtMS40Ny0xLjYyNSA5LjU5IDkuNTkgMCAwMC0uMjctLjIxOC40MjcuNDI3IDAgMDEtLjA3NC0uMDYzYzAtLjAxLjYxNy0uMjc0IDEuMDg4LS40NjZhMzcuMDIgMzcuMDIgMCAwMTIuNzc4LS45OWMuNDQyLS4xMzUuOTEyLS4yNy45MTktLjI2NHptLjI3OC4wNzNhLjkzLjkzIDAgMDEuMjA3LjEgMTIuMjc0IDEyLjI3NCAwIDAxMi40MjggMS44MjRjLjE5NC4xOS42NjcuNjgzLjY2LjY4N2wtLjM2My4wMjljLTEuNTMuMTE1LTMuNDg2LjQ0LTUuMzcuODkzLS4xMjguMDMtLjIzOC4wNTYtLjI0Ni4wNTYtLjAwNyAwIC4xMzMtLjE0LjMxMS0uMzEyIDEuMTA3LTEuMDYzIDEuNjExLTEuNzM0IDIuMjA1LTIuOTM0LjA4OC0uMTc4LjE2My0uMzMzLjE2Ni0uMzQyaC4wMDJ6bS04LjA4OC44M2MuMDUxLjAxLjUyMy4yMy44NzkuNDA4LjMyNS4xNjMuODE4LjQyNi44NDMuNDQ5LjAwMy4wMDMtLjE3LjA5My0uMzg2LjIwMS0uNjgzLjM0Mi0xLjI2OC42NjQtMS44NzggMS4wMzctLjE3NS4xMDctLjMyLjE5NC0uMzI1LjE5NC0uMDE1IDAtLjAxLS4wMTMuMDg4LS4xOTFhNy43MDIgNy43MDIgMCAwMC43MzgtMi4wMDJjLjAxNC0uMDYyLjAzLS4xLjA0MS0uMDk3em0tLjQ3NS4wODRjLjAxLjAxLS4xMTIuNDYtLjE5LjdhOS4wOTIgOS4wOTIgMCAwMS0uODM1IDEuODA4bC0uMDkuMTQ3LS4yMDMtLjE5N2EyLjY3MSAyLjY3MSAwIDAwLS42NzYtLjUgMS4wMDkgMS4wMDkgMCAwMS0uMTc2LS4xMDJjMC0uMDMuNjItLjU5MyAxLjA5OC0uOTk4LjM0My0uMjkgMS4wNjQtLjg2NyAxLjA3Mi0uODU4em0yLjg4OCAxLjE4OGwuMTc3LjExNWMuNDA3LjI2NC44ODguNjE5IDEuMjU1LjkyNC4yMDYuMTcyLjYwNS41My42ODcuNjE2bC4wNDQuMDQ3LS4yOTQuMDgyYTUzLjggNTMuOCAwIDAwLTQuNDUgMS40MjRjLS4xNjcuMDYxLS4zMS4xMTItLjMyLjExMi0uMDIxIDAtLjA0Mi4wMTkuMzMzLS4zMjYuOTYtLjg4MyAxLjgwNy0xLjg1NiAyLjQ0LTIuODAyem0tLjc1OS4xOWMuMDA5LjAwOS0uNDkyLjcxLS43ODkgMS4xMDYtLjM1Ni40NzMtLjk5IDEuMjY1LTEuNDI2IDEuNzhhOC43NjkgOC43NjkgMCAwMS0uMzQ2LjM5N2MtLjAxLjAwMy0uMDE1LS4wNS0uMDE2LS4xMzMgMC0uNDQtLjExMi0uOTEtLjMwOC0xLjMwOC0uMDgzLS4xNjgtLjA5Ny0uMjA4LS4wOC0uMjI0LjA2OC0uMDYyIDEuMTI3LS42NjYgMS43OTQtMS4wMjMuNDU5LS4yNDYgMS4xNjMtLjYwNCAxLjE3MS0uNTk1em0tNC41OSAxLjEyNWEzLjk4OCAzLjk4OCAwIDAxLjgxMi41MThjLjAwOC4wMDUtLjA4Ny4wODMtLjIxLjE3Mi0uMzQ1LjI0OS0uODcuNjQ0LTEuMTczLjg4Ni0uMzIuMjU1LS4zMzEuMjYzLS4yOTUuMjA3LjI0LS4zNjcuMzYtLjU3NC40ODYtLjg0LjExMy0uMjM2LjIyNC0uNTE2LjMwNC0uNzZhLjY3NS42NzUgMCAwMS4wNzctLjE4M3ptMS4yMjMuOTZjLjAxNy0uMDAzLjA0LjAyOC4xMzkuMTc1LjIwNy4zMS4zNjYuNzIyLjQwNyAxLjA1OGwuMDA4LjA3My0uNDk3LjE5MmMtLjg5LjM0Ni0xLjcxMS42ODctMi4yNjYuOTQtLjE1NS4wNzItLjQyOC4yMDItLjYwNy4yOTItLjE3OS4wOS0uMzI1LjE2LS4zMjUuMTU2IDAtLjAwNC4xMTItLjA4OS4yNS0uMTg4IDEuMDg3LS43OSAyLjAyNS0xLjY1NCAyLjczMi0yLjUxOS4wNzUtLjA5Mi4xNDQtLjE3Mi4xNTMtLjE3OGEuMDE2LjAxNiAwIDAxLjAwNi0uMDAyem0tLjU2NC4xNGMuMDE1LjAxNC0uNDAxLjQ4NC0uNjgxLjc3LS43LjcxNS0xLjM5NiAxLjI3NS0yLjI1NiAxLjgyMS0uMTA4LjA2OS0uMjA2LjEzLS4yMi4xMzgtLjAyMy4wMTQuMDA4LS4wMjIuMzg2LS40MzQuMjM4LS4yNTkuNDItLjQ3NC42MjgtLjc0My4xMzYtLjE3Ny4xNjItLjIwMi4zNjItLjM0Ni41MzctLjM4OCAxLjc2Ny0xLjIyMSAxLjc4MS0xLjIwN3pNOS45MjUgMGMtLjA4LS4wMS0xLjM3MS40NTUtMi4yLjc5MS0xLjEyMy40NTctMS45OTYuODk0LTIuNTM0IDEuMjcyLS4yLjE0LS40NTIuMzkzLS40ODguNDlhLjM1Ni4zNTYgMCAwMC0uMDIxLjEyM2wuNDg4LjQ2IDEuMTU4LjM3TDkuMDg3IDRsMy4xNTMuNTQyLjAzMi0uMjctLjAyOC0uMDA1LS40MTUtLjA2Ni0uMDg1LS4xNDhhMjcuNzAyIDI3LjcwMiAwIDAxLTEuMTc3LTIuMzI1IDEyLjI2NCAxMi4yNjQgMCAwMS0uNTMtMS40NjVDOS45NjkuMDIgOS45NjIuMDA1IDkuOTI1IDB6bS0uMDYxLjE4NmguMDA1Yy4wMDMuMDAzLjAxNy4xMDUuMDMyLjIyNS4wNjIuNTA4LjE3NiAxIC4zNTQgMS41My4xMzQuNC4xMzYuMzc3LS4wMjQuMzMyLS4zNy0uMTAzLTIuMDMyLS4zODgtMy4yMzQtLjU1NWE4Ljc5NiA4Ljc5NiAwIDAxLS4zNTctLjA1M2MtLjAxNS0uMDE1Ljg2Ny0uNDc3IDEuMjU4LS42Ni41MDEtLjIzMiAxLjg2Ny0uOCAxLjk2Ni0uODE5ek02LjM2MiAxLjgxNGwuMTQxLjA0OGMuNzcyLjI2MiAyLjcwNi42MzIgMy43NzUuNzIuMTIuMDEuMjIyLjAyMS4yMjUuMDI0LjAwMy4wMDMtLjEuMDU4LS4yMjguMTIyLS41MTUuMjU4LTEuMDgzLjU3My0xLjQ3Ni44MTktLjExNS4wNzItLjIyLjEzLS4yMzUuMTI5YTQuODY4IDQuODY4IDAgMDEtLjE3LS4wMjdsLS4xNDQtLjAyMy0uMzY1LS4zNTVjLS42NDEtLjYyLTEuMTQxLTEuMS0xLjMzNS0xLjI4em0tLjE0My4xMTRsLjUxMS42MzhjLjI4Mi4zNS41NjQuNjk5LjYyNi43NzQuMDYzLjA3NS4xMTEuMTM4LjEwOC4xNC0uMDE0LjAxMS0uNzQtLjEzLTEuMTI1LS4yMTlhOC41MzIgOC41MzIgMCAwMS0uODAzLS4yMTJsLS4yLS4wNjQuMDAxLS4wNDljLjAwMy0uMjQ1LjMxMi0uNjA3LjgzNi0uOTc2em00LjM1Mi44NjljLjAxNS4wMDEuMDMyLjAzMi4wNzcuMTMxLjEyNC4yNzIuNTEgMS4wMDguNjAzIDEuMTUuMDMuMDQ3LjA4LjA1LS40MzMtLjAzMy0xLjIzLS4xOTgtMS42MjktLjI2NS0xLjYyOS0uMjczYS4zNi4zNiAwIDAxLjA4My0uMDU0IDcuMTMgNy4xMyAwIDAwMS4xMDctLjc2N2wuMTc1LS4xNDdjLjAwNi0uMDA1LjAxMi0uMDA4LjAxNy0uMDA3em00LjMwOSA4LjQwOGwtNC44MDggMS41NjgtNC4xOCAxLjg0Ni0xLjE3LjMxYy0uMjk4LjI4Mi0uNjEzLjU2OC0uOTQ4Ljg2LS4zNy4zMjEtLjcxNi42MTItLjk4LjgyMmE3LjQ2IDcuNDYgMCAwMC0uOTUzLjk0NWMtLjMzMi40MTQtLjU5Mi44NTQtLjcwNCAxLjE5My0uMi42MS0uMTAzIDEuMjI4LjI4NSAxLjc5OC40OTUuNzI4IDEuNDggMS40NjggMi42MjUgMS45NzIuNTg1LjI1NiAxLjU3LjU4OCAyLjMxLjc3NCAxLjIzMy4zMTIgMy42MTQuNjUgNC45MjYuNy4yNjYuMDEuNjIuMDEuNjM3LS4wMDIuMDI4LS4wMTkuMjMzLS40MDUuNDctLjg5LjgwNi0xLjY0NiAxLjM4OS0zLjE5IDEuNzAzLTQuNTA4LjE5LS43OTkuMzM4LTEuODYzLjQzNC0zLjEyNS4wMjctLjM1NC4wMzctMS41MzMuMDE2LTEuOTM0YTEzLjU2NCAxMy41NjQgMCAwMC0uMTgzLTEuNzA2LjQzNS40MzUgMCAwMS0uMDEyLS4xNWMuMDE0LS4wMS4wNTktLjAyNS42NS0uMTk3em0tMS4xLjY0NWMuMDQ1IDAgLjE2IDEuMTE0LjE5MSAxLjgyLjAwNi4xNTEuMDA1LjI0Ny0uMDA0LjI0Ny0uMDI4IDAtLjYxNS0uMzQ1LTEuMDMyLS42MDZhMjguNzE2IDI4LjcxNiAwIDAxLTEuMTYyLS43NzJjLS4wMzUtLjAyOC0uMDMxLS4wMjkuMjY2LS4xMzEuNTA1LS4xNzQgMS43MDQtLjU1OCAxLjc0Mi0uNTU4em0tMi40NDguODAzYy4wMyAwIC4xMTUuMDQ3LjMxNS4xNzIuNzUuNDcgMS43NjYgMS4wMzUgMi4yIDEuMjI1LjEzNi4wNi4xNTEuMDM2LS4xNi4yNDctLjY2Mi40NS0xLjQ4Ni44OTItMi40OTcgMS4zNDJhNy41OSA3LjU5IDAgMDEtLjMzMS4xNDIuOTg5Ljk4OSAwIDAxLjA0My0uMmMuMjQ1LS45MDUuMzgzLTEuODIuMzg3LTIuNTU0LjAwMi0uMzYyLjAwMi0uMzY0LjAzNy0uMzczaC4wMDZ6bS0uNTA0LjE5M2MuMDIxLjAyMi4wMDYuODM0LS4wMiAxLjA1NmE5LjIwNiA5LjIwNiAwIDAxLS40MTggMS44MzdjLS4wMTQuMDE3LS41MTEtLjQ2OC0uNjc2LS42NmE0LjkxOCA0LjkxOCAwIDAxLS42NjktLjk3M2MtLjA4Mi0uMTYyLS4yMTQtLjQ4NC0uMjAyLS40OTMuMDU2LS4wNCAxLjk3MS0uNzggMS45ODUtLjc2N3ptLTIuMzc1LjkzNmMuMDA0IDAgLjAwOC4wMDEuMDEuMDA0YS44ODEuODgxIDAgMDEuMDU2LjEzMWMuMTE2LjMxNS4zNzYuNzgyLjYwMiAxLjA4YTYuMjQ3IDYuMjQ3IDAgMDAxLjAxNyAxLjA2Yy4wMjMuMDIuMDMuMDE2LS41NjIuMjRhNDguNTMgNDguNTMgMCAwMS0yLjI5NC44Yy0uMzI3LjEwNi0uNjA0LjE5NS0uNjE1LjItLjAzMy4wMTEtLjAyMy0uMDA5LjA3My0uMTU4LjQyNy0uNjY2IDEuMDczLTEuOTcgMS40MzUtMi44OTIuMDYyLS4xNi4xMjItLjMyLjEzMy0uMzU2LjAxNS0uMDUyLjAzMS0uMDcuMDgtLjA5MmEuMTQ5LjE0OSAwIDAxLjA2NS0uMDE3em0tLjcyOC4zYy4wMS4wMDktLjE3NC4zOTgtLjM1Ni43NTEtLjM1MS42ODYtLjczOSAxLjM2MS0xLjI1MyAyLjE4NWwtLjE4Mi4yODhjLS4wMTguMDI3LS4wMjYuMDE4LS4wODItLjA5NGEzLjMwNyAzLjMwNyAwIDAxLS4yOC0uODQyIDMuMzkgMy4zOSAwIDAxLjAyLTEuMDgzYy4wNDctLjIyNy4wNDUtLjIyMi4xNTItLjI3Ni40NjItLjIzNyAxLjk2Ni0uOTQyIDEuOTgxLS45Mjl6bTYuMjY4LjI1NXYuMTU0YTIwLjEwNiAyMC4xMDYgMCAwMS0uMjU1IDIuOTkyIDkuMzYyIDkuMzYyIDAgMDEtMS44OTgtLjc4MmMtLjM1NC0uMTk0LS44NjUtLjUwNy0uODUtLjUyMi4wMDMtLjAwNC4xNTQtLjA4My4zMzQtLjE3Ny43MTQtLjM3IDEuMzk1LS43NyAxLjk4OC0xLjE2Ni4yMjItLjE0OC41NTUtLjM4OS42MjktLjQ1NHpNNC45ODEgMTUuNDFjLjAxNSAwIC4wMTEuMDI4LS4wMTIuMTYxYTQuMTM3IDQuMTM3IDAgMDAtLjA0MS4zOWMtLjAzLjUzMi4wNTcuOTI0LjMyIDEuNDYuMDc0LjE1LjEzMi4yNzQuMTI5LjI3Ni0uMDI3LjAyMy0yLjQzLjcyNi0zLjE4Ni45MzNsLS40MzUuMTJjLS4wMjcuMDA4LS4wMjkuMDAyLS4wMi0uMDYuMDgzLS41MzMuNDktMS4yMzIgMS4wNTgtMS44Mi4zNzgtLjM5LjY4LS42MjIgMS4xOTUtLjkxNWEzMC43ODIgMzAuNzgyIDAgMDEuOTkyLS41NDV6bTUuNjY5IDEuMDE1Yy4wMDItLjAwMi4wOTEuMDQ1LjE5Ny4xMDcuNzc3LjQ0OSAxLjg2Ljg3IDIuNzgzIDEuMDgxbC4wODQuMDItLjExNS4wNjNjLS40ODIuMjY4LTIuMDcxLjkyOS0zLjY5NCAxLjUzN2E2OC44MiA2OC44MiAwIDAwLS41MTMuMTk0LjMxNC4zMTQgMCAwMS0uMDgyLjAyN2MwLS4wMDQuMDY3LS4xMzIuMTQ5LS4yODYuNDU2LS44NTIuOTEtMS44ODcgMS4xNDQtMi42MDUuMDIzLS4wNzMuMDQ0LS4xMzUuMDQ3LS4xMzh6bS0uNTc4LjE5YTEuMzkgMS4zOSAwIDAxLS4wNjMuMTY5IDIzLjUzNCAyMy41MzQgMCAwMS0xLjI2MSAyLjU0IDkuMDA5IDkuMDA5IDAgMDEtLjI1Mi40MzNjLS4wMDUgMC0uMTE0LS4wNjYtLjI0NC0uMTQ1LS43Ny0uNDcyLTEuNDUyLTEuMDUyLTEuOS0xLjYxN2wtLjA2NC0uMDguMzMyLS4wOTFhMjMuNjE2IDIzLjYxNiAwIDAwMy4xOS0xLjEwM2MuMTQyLS4wNi4yNi0uMTA5LjI2Mi0uMTA2em0zLjU5IDEuMjUzYy4wMDEgMCAuMDAyLjAwMS4wMDIuMDAzIDAgLjA4LS4xODMuODI4LS4zMzYgMS4zNy0uMTI4LjQ1My0uMjM2LjgwOC0uNDM1IDEuNDM3YTguNTMzIDguNTMzIDAgMDEtLjE2OC41MDQgMTUuMDA0IDE1LjAwNCAwIDAxLTMtLjg0MSA3Ljk2NCA3Ljk2NCAwIDAxLS42MzktLjI4M2MtLjAwNi0uMDA3LjIxMy0uMTEuNDg2LS4yMyAxLjY1NS0uNzIxIDMuMzY5LTEuNTQzIDMuOTU1LTEuODk2YS40MzIuNDMyIDAgMDEuMTM1LS4wNjR6bS04LjI4Ny4yODNjLjAwOS4wMDktLjQ1NC42NzEtMS4xIDEuNTc2bC0uNTg3LjgyM2MtLjA5Ny4xMzktLjI0NS4zNTgtLjMyOS40ODhsLS4xNTMuMjM2LS4xNjItLjEzN2MtLjE5MS0uMTYtLjUyNS0uNTAxLS42NzctLjY5LS4zMTItLjM4OS0uNTIzLS43OTgtLjYwNy0xLjE3NC0uMDM4LS4xNzQtLjA0LS4yNjItLjAwMy0uMjczYTE3Ni4yNiAxNzYuMjYgMCAwMTEuOTM0LS40NTVsMS4zLS4zMDVjLjIwOS0uMDUuMzgyLS4wOS4zODQtLjA4OXptLjQ2NS4xNzhsLjExNy4xMzFhNi43NjMgNi43NjMgMCAwMDEuNzA2IDEuMzk0Yy4xMTUuMDY2LjIwMi4xMjQuMTk1LjEyOGEyODEuOTY3IDI4MS45NjcgMCAwMS00LjMzIDEuNTMuODU4Ljg1OCAwIDAxLS4wNzItLjA0OGwtLjA2Ny0uMDQ4LjEwNS0uMTUyYy4zNC0uNDkzLjc2OC0xLjAzNSAxLjcwNS0yLjE2MnptMi45IDIuMDczYy4wMDMtLjAwMy4xNjUuMDU0LjM2Mi4xMjguNDczLjE3Ny44NDQuMjkyIDEuMzQ3LjQxOC42MTcuMTU1IDEuNTEuMzEgMi4wMzguMzU0LjA4LjAwNi4xMjIuMDE2LjExLjAyNC0uMDI1LjAxNi0uNTYuMTk0LS45NTMuMzE4YTI1OC41MjYgMjU4LjUyNiAwIDAxLTQuNjM2IDEuMzYzYy0uMDM1LjAwNy0uMTU3LS4wMjUtLjE1Ny0uMDQgMC0uMDA5LjA4Ny0uMTE5LjE5My0uMjQ2YTIyLjAyNyAyMi4wMjcgMCAwMDEuNDc2LTEuOTg0IDU2LjkgNTYuOSAwIDAxLjIyLS4zMzV6bS0uNjQyLjAxOGMuMDA1LjAwNS0uMjUzLjQxOC0uNzA2IDEuMTMyLS4xOTIuMzAxLS40MDkuNjQ1LS40ODMuNzYyLS4wNzUuMTE4LS4xODQuMjk4LS4yNDIuNGwtLjEwNy4xODUtLjA1NC0uMDE0Yy0uMTMtLjAzNS0xLjA0OS0uMzYtMS4yOTEtLjQ1Ni0uMzAxLS4xMi0uNjE1LS4yNjQtLjg0Ni0uMzg5LS4yODktLjE1Ni0uNjU1LS4zODgtLjYyNy0uMzk3bDEuMTA1LS4zMDJjMS41OTItLjQzNCAyLjQ3My0uNjgzIDMuMDUtLjg2NC4xMDktLjAzMy4xOTktLjA1OS4yLS4wNTd6bTQuNTIzIDEuMDYxaC4wMDZjLjAxNS4wMzgtLjU3NSAxLjY3LS43OSAyLjE4OC0uMDQ5LjExNi0uMDY2LjE0NS0uMDkyLjE0M2E1NS41NCA1NS41NCAwIDAxLTEuNDMzLS4yYy0uOTA2LS4xMzgtMi40MjMtLjQwMy0yLjgwNi0uNDlsLS4wODktLjAyLjU0My0uMTIyYzEuMTY0LS4yNjIgMS43MjMtLjQwMyAyLjI5LS41NzdhMTYuNTQ0IDE2LjU0NCAwIDAwMi4xMzgtLjgyNGMuMTEzLS4wNTIuMjEtLjA5My4yMzMtLjA5OFoiLz48L3N2Zz4%3D&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
+
+**AI & RAG**
+
+![Haystack](https://img.shields.io/badge/Haystack-079A82?style=flat-square&logo=haystack&logoColor=white)
+![Gemini embeddings](https://img.shields.io/badge/Gemini_embeddings-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+
+**Infrastructure & payments**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![DigitalOcean Spaces](https://img.shields.io/badge/DigitalOcean_Spaces-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+
+**Development & design tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-<details>
-<summary>Also worked with</summary>
-
-HTML · CSS · SQL Server · Postman · Figma · Stripe · DigitalOcean Spaces · Haystack · Gemini embeddings
-
-</details>
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
