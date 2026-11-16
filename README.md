@@ -15,7 +15,17 @@
 
 ---
 
-## ![About Me, Experience and Projects. IT student at UIT graduating June 2027. Software engineering internships at AlphaSphere and HONEYNET. Fullstack developer on DeepReader, an AI reading platform.](https://github.com/user-attachments/assets/c2b11f44-0b76-49f0-9801-bbd8723f2e01)
+## ![About Me](https://github.com/user-attachments/assets/393bbde5-833d-4d69-aa90-d93f6daa8c4f)
+
+![About me, including education, backend and AI interests, and teamwork](https://github.com/user-attachments/assets/d3c6e0eb-e7a7-47d7-8ee8-29cb0493e860)
+
+## ![Experience](https://github.com/user-attachments/assets/c8945043-f7c1-4b4e-9155-55c355206947)
+
+![Full work experience timeline for AlphaSphere and HONEYNET](https://github.com/user-attachments/assets/dab4b21a-a60e-4fff-a2ac-d89c2b151fcb)
+
+## ![Projects](https://github.com/user-attachments/assets/bc889331-2118-41c6-8ad4-2c39778aa22e)
+
+![DeepReader project, technologies and four implementation highlights](https://github.com/user-attachments/assets/ec7d225a-311c-4aa8-b323-995640f4d6a4)
 
 [Explore DeepReader on GitHub →](https://github.com/23520904/deepreader)
 
