@@ -15,17 +15,13 @@
 
 ---
 
-## ![About Me](https://github.com/user-attachments/assets/393bbde5-833d-4d69-aa90-d93f6daa8c4f)
-
-![IT student at UIT (June 2027) building backend APIs, full-stack apps, and AI tools.](https://github.com/user-attachments/assets/e7ee1508-9f70-4b24-9b16-70d7935f6dbd)
-
 ## ![Experience](https://github.com/user-attachments/assets/c8945043-f7c1-4b4e-9155-55c355206947)
 
-![Full work experience timeline for AlphaSphere and HONEYNET](https://github.com/user-attachments/assets/a7eb6ba8-a9fc-42cf-a886-d9e18962f453)
+![Full work experience timeline for AlphaSphere and HONEYNET](https://github.com/user-attachments/assets/8e52a2c7-564e-48ae-92d5-ace9ae7d869a)
 
 ## ![Projects](https://github.com/user-attachments/assets/bc889331-2118-41c6-8ad4-2c39778aa22e)
 
-![DeepReader project, technologies and four implementation highlights](https://github.com/user-attachments/assets/0509c62e-7d30-4795-bcf8-3880469e24d2)
+![DeepReader project, technologies and four implementation highlights](https://github.com/user-attachments/assets/f6b89d1c-5952-4a98-a761-ce3851681a2f)
 
 [Explore DeepReader on GitHub →](https://github.com/23520904/deepreader)
 
