@@ -83,19 +83,7 @@ Upload a PDF or EPUB, ask questions grounded in its content, and turn what you r
 
 [Explore the repository →](https://github.com/23520904/deepreader)
 
-## ![My toolkit: 26 technologies orbiting one sun](https://github.com/user-attachments/assets/24e57ec3-2947-467b-b8e9-ec39b29109c9)
-
-<details>
-<summary>Planet key and full stack</summary>
-
-- **Languages & markup** — `JV` Java, `TS` TypeScript, `JS` JavaScript, `HTML` HTML, `CSS` CSS
-- **Backend & async** — `SB` Spring Boot, `N` NestJS, `NODE` Node.js, `EX` Express.js, `BQ` BullMQ
-- **Frontend** — `RE` React, `NEXT` Next.js, `TW` Tailwind CSS, `V` Vite
-- **Databases & search** — `PG` PostgreSQL, `MDB` MongoDB, `SQL` SQL Server, `RD` Redis, `Q` Qdrant
-- **Infrastructure & payments** — `DK` Docker, `DO` DigitalOcean Spaces, `S` Stripe
-- **Development & design** — `GIT` Git, `GH` GitHub, `PM` Postman, `FIG` Figma
-
-</details>
+## ![My toolkit: 26 technologies orbiting one sun](https://github.com/user-attachments/assets/976d8b12-3d20-4d48-a896-c1de13161866)
 
 ---
 
