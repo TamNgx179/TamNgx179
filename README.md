@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:155E75,100:22D3EE&amp;height=180&amp;section=header&amp;text=Nguyen%20Minh%20Tam&amp;fontSize=40&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=Software%20Engineer%20%7C%20Backend%20%C2%B7%20Full-stack%20%C2%B7%20AI&amp;descSize=16&amp;descAlignY=60&amp;animation=fadeIn" width="100%" alt="Nguyen Minh Tam — Software Engineer, Backend, Full-stack and AI" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:155E75,100:22D3EE&amp;height=180&amp;section=header&amp;text=Nguyen%20Minh%20Tam&amp;fontSize=40&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=Software%20Engineer%20%7C%20Backend%20%7C%20Full-stack%20%7C%20AI&amp;descSize=16&amp;descAlignY=60&amp;animation=fadeIn" width="100%" alt="Nguyen Minh Tam — Software Engineer, Backend, Full-stack and AI" />
 </p>
-
-<h1 align="center">Hey, I'm Tam 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=1400&amp;color=0891B2&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=48&amp;lines=Building+APIs+and+background+pipelines;Connecting+AI+to+real-world+products;From+backend+services+to+full-stack+experiences" width="650" alt="Building APIs and background pipelines. Connecting AI to real-world products. From backend services to full-stack experiences." />
@@ -17,7 +15,7 @@
 
 ---
 
-## A little about me
+## ![About Me](https://github.com/user-attachments/assets/393bbde5-833d-4d69-aa90-d93f6daa8c4f)
 
 I'm an **Information Technology student at UIT — VNUHCM**, graduating in **June 2027**. I build backend services, full-stack applications, and AI-powered workflows that connect useful ideas to working products.
 
@@ -26,9 +24,9 @@ I'm an **Information Technology student at UIT — VNUHCM**, graduating in **Jun
 - 🤝 I enjoy thoughtful teamwork, clean engineering, and learning by building.
 - 💬 Comfortable collaborating and communicating in **English**.
 
-## 💼 Work Experience
+## ![Experience](https://github.com/user-attachments/assets/c8945043-f7c1-4b4e-9155-55c355206947)
 
-### AlphaSphere · Fullstack Developer Intern
+### AlphaSphere | Fullstack Developer Intern
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
@@ -47,7 +45,7 @@ I'm an **Information Technology student at UIT — VNUHCM**, graduating in **Jun
 - Built **Stripe subscription billing flows** for plan changes, proration, trials, and usage-based charging, with webhook-driven event handling and idempotency-key protection to prevent duplicate operations and improve payment-state consistency.
 - Designed a **secure media-storage workflow** using DigitalOcean Spaces, introducing a quarantine stage for newly uploaded files and presigned URLs for controlled asset access.
 
-### HONEYNET Joint Stock Company · Backend Developer Intern
+### HONEYNET Joint Stock Company | Backend Developer Intern
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -60,7 +58,7 @@ I'm an **Information Technology student at UIT — VNUHCM**, graduating in **Jun
 - Designed **PostgreSQL data models and backend services** for news/events, donation activities, activity search, and comment approval workflows.
 - Built **real-time notification APIs** with robust request validation for application submission workflows, improving consistency and reliability of backend request handling.
 
-## 🚀 Featured Project
+## ![Projects](https://github.com/user-attachments/assets/bc889331-2118-41c6-8ad4-2c39778aa22e)
 
 ### DeepReader — AI-Powered Reading Platform
 
@@ -74,67 +72,30 @@ I'm an **Information Technology student at UIT — VNUHCM**, graduating in **Jun
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Fullstack Developer · Team of 6**
+**Fullstack Developer | Team of 6**
 
 Upload a PDF or EPUB, ask questions grounded in its content, and turn what you read into summaries and flashcards.
 
-- Built a **RAG-powered PDF/EPUB learning workflow** using Gemini embeddings, Qdrant, and Haystack, supporting uploads up to **25MB**, citation-grounded Q&A, summaries, and generation of **1-50 flashcards**.
+- Built a **RAG-powered PDF/EPUB learning workflow** using vector embeddings and Qdrant, supporting uploads up to **25MB**, citation-grounded Q&A, summaries, and generation of **1-50 flashcards**.
 - Designed an **asynchronous ingestion pipeline** that splits documents into **1,500-character chunks** with **200-character overlap**, generates **768-dimensional embeddings** in **50-chunk batches**, and indexes them for vector search.
 - Implemented **Redis-backed rate limiting** to protect AI inference and authentication endpoints, enforcing differentiated request quotas based on API workload.
 - Optimized **Next.js page performance and SEO**, achieving **90+ Lighthouse scores** across mobile and desktop and reaching top-five Google Search results for selected target keywords.
 
 [Explore the repository →](https://github.com/23520904/deepreader)
 
-## 🧰 My toolkit
+## ![My toolkit: 26 technologies orbiting one sun](https://github.com/user-attachments/assets/24e57ec3-2947-467b-b8e9-ec39b29109c9)
 
-**Languages & markup**
+<details>
+<summary>Planet key and full stack</summary>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjMDA3NEJEIiBkPSJNNDcuNjE3IDk4LjEycy00Ljc2NyAyLjc3NCAzLjM5NyAzLjcxYzkuODkyIDEuMTMgMTQuOTQ3Ljk2OCAyNS44NDUtMS4wOTIgMCAwIDIuODcxIDEuNzk1IDYuODczIDMuMzUxLTI0LjQzOSAxMC40Ny01NS4zMDgtLjYwNy0zNi4xMTUtNS45Njl6bS0yLjk4OC0xMy42NjVzLTUuMzQ4IDMuOTU5IDIuODIzIDQuODA1YzEwLjU2NyAxLjA5MSAxOC45MSAxLjE4IDMzLjM1NC0xLjYgMCAwIDEuOTkzIDIuMDI1IDUuMTMyIDMuMTMxLTI5LjU0MiA4LjY0LTYyLjQ0Ni42OC00MS4zMDktNi4zMzZ6Ii8%2BPHBhdGggZmlsbD0iI0VBMkQyRSIgZD0iTTY5LjgwMiA2MS4yNzFjNi4wMjUgNi45MzUtMS41OCAxMy4xNy0xLjU4IDEzLjE3czE1LjI4OS03Ljg5MSA4LjI2OS0xNy43NzdjLTYuNTU5LTkuMjE1LTExLjU4Ny0xMy43OTIgMTUuNjM1LTI5LjU4IDAgLjAwMS00Mi43MzEgMTAuNjctMjIuMzI0IDM0LjE4N3oiLz48cGF0aCBmaWxsPSIjMDA3NEJEIiBkPSJNMTAyLjEyMyAxMDguMjI5czMuNTI5IDIuOTEtMy44ODggNS4xNTljLTE0LjEwMiA0LjI3Mi01OC43MDYgNS41Ni03MS4wOTQuMTcxLTQuNDUxLTEuOTM4IDMuODk5LTQuNjI1IDYuNTI2LTUuMTkyIDIuNzM5LS41OTMgNC4zMDMtLjQ4NSA0LjMwMy0uNDg1LTQuOTUzLTMuNDg3LTMyLjAxMyA2Ljg1LTEzLjc0MyA5LjgxNSA0OS44MjEgOC4wNzYgOTAuODE3LTMuNjM3IDc3Ljg5Ni05LjQ2OHpNNDkuOTEyIDcwLjI5NHMtMjIuNjg2IDUuMzg5LTguMDMzIDcuMzQ4YzYuMTg4LjgyOCAxOC41MTguNjM4IDMwLjAxMS0uMzI2IDkuMzktLjc4OSAxOC44MTMtMi40NzQgMTguODEzLTIuNDc0cy0zLjMwOCAxLjQxOS01LjcwNCAzLjA1M2MtMjMuMDQyIDYuMDYxLTY3LjU0NCAzLjIzOC01NC43MzEtMi45NTggMTAuODMyLTUuMjM5IDE5LjY0NC00LjY0MyAxOS42NDQtNC42NDN6bTQwLjY5NyAyMi43NDdjMjMuNDIxLTEyLjE2NyAxMi41OTEtMjMuODYgNS4wMzItMjIuMjg1LTEuODQ4LjM4NS0yLjY3Ny43Mi0yLjY3Ny43MnMuNjg4LTEuMDc5IDItMS41NDNjMTQuOTUzLTUuMjU1IDI2LjQ1MSAxNS41MDMtNC44MjMgMjMuNzI1IDAtLjAwMi4zNTktLjMyNy40NjgtLjYxN3oiLz48cGF0aCBmaWxsPSIjRUEyRDJFIiBkPSJNNzYuNDkxIDEuNTg3Uzg5LjQ1OSAxNC41NjMgNjQuMTg4IDM0LjUxYy0yMC4yNjYgMTYuMDA2LTQuNjIxIDI1LjEzLS4wMDcgMzUuNTU5LTExLjgzMS0xMC42NzMtMjAuNTA5LTIwLjA3LTE0LjY4OC0yOC44MTVDNTguMDQxIDI4LjQyIDgxLjcyMiAyMi4xOTUgNzYuNDkxIDEuNTg3eiIvPjxwYXRoIGZpbGw9IiMwMDc0QkQiIGQ9Ik01Mi4yMTQgMTI2LjAyMWMyMi40NzYgMS40MzcgNTctLjggNTcuODE3LTExLjQzNiAwIDAtMS41NzEgNC4wMzItMTguNTc3IDcuMjMxLTE5LjE4NiAzLjYxMi00Mi44NTQgMy4xOTEtNTYuODg3Ljg3NCAwIC4wMDEgMi44NzUgMi4zODEgMTcuNjQ3IDMuMzMxeiIvPjwvc3ZnPg%3D%3D)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
+- **Languages & markup** — `JV` Java, `TS` TypeScript, `JS` JavaScript, `HTML` HTML, `CSS` CSS
+- **Backend & async** — `SB` Spring Boot, `N` NestJS, `NODE` Node.js, `EX` Express.js, `BQ` BullMQ
+- **Frontend** — `RE` React, `NEXT` Next.js, `TW` Tailwind CSS, `V` Vite
+- **Databases & search** — `PG` PostgreSQL, `MDB` MongoDB, `SQL` SQL Server, `RD` Redis, `Q` Qdrant
+- **Infrastructure & payments** — `DK` Docker, `DO` DigitalOcean Spaces, `S` Stripe
+- **Development & design** — `GIT` Git, `GH` GitHub, `PM` Postman, `FIG` Figma
 
-**Backend & async**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-181717?style=flat-square&logo=express&logoColor=white)
-<img src="https://bullmq.io/images/bullmq-logo.png" height="20" alt="BullMQ" />
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-181717?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0891B2?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-**Databases & search**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="20" alt="Microsoft SQL Server logo" /> ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
-
-**AI & RAG**
-
-![Haystack](https://img.shields.io/badge/Haystack-079A82?style=flat-square&logo=haystack&logoColor=white)
-![Gemini embeddings](https://img.shields.io/badge/Gemini_embeddings-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-
-**Infrastructure & payments**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![DigitalOcean Spaces](https://img.shields.io/badge/DigitalOcean_Spaces-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-
-**Development & design tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+</details>
 
 ---
 
