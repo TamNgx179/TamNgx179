@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:155E75,100:22D3EE&amp;height=180&amp;section=header&amp;text=Nguyen%20Minh%20Tam&amp;fontSize=40&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=Software%20Engineer%20%7C%20Backend%20%7C%20Full-stack%20%7C%20AI&amp;descSize=16&amp;descAlignY=60&amp;animation=fadeIn" width="100%" alt="Nguyen Minh Tam — Software Engineer, Backend, Full-stack and AI" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:155E75,100:22D3EE&amp;height=132&amp;section=header&amp;text=Nguyen%20Minh%20Tam&amp;fontSize=34&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=Software%20Engineer%20%7C%20Backend%20%7C%20Full-stack%20%7C%20AI&amp;descSize=16&amp;descAlignY=64&amp;animation=fadeIn" width="100%" alt="Nguyen Minh Tam — Software Engineer, Backend, Full-stack and AI" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=1400&amp;color=0891B2&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=48&amp;lines=Building+APIs+and+background+pipelines;Connecting+AI+to+real-world+products;From+backend+services+to+full-stack+experiences" width="650" alt="Building APIs and background pipelines. Connecting AI to real-world products. From backend services to full-stack experiences." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=1400&amp;color=0891B2&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=34&amp;lines=Building+APIs+and+background+pipelines;Connecting+AI+to+real-world+products;From+backend+services+to+full-stack+experiences" width="650" alt="Building APIs and background pipelines. Connecting AI to real-world products. From backend services to full-stack experiences." />
 </p>
 
 <p align="center">
@@ -15,18 +15,18 @@
 
 ---
 
-## ![Experience](https://github.com/user-attachments/assets/c8945043-f7c1-4b4e-9155-55c355206947)
+## ![Experience](https://github.com/user-attachments/assets/c3e5f7f6-62a5-4c65-9159-b806a33f0cac)
 
-![Full work experience timeline for AlphaSphere and HONEYNET](https://github.com/user-attachments/assets/8e52a2c7-564e-48ae-92d5-ace9ae7d869a)
+![Full work experience timeline for AlphaSphere and HONEYNET](https://github.com/user-attachments/assets/8da7b658-ed61-43fc-a786-f45cbcc157d9)
 
-## ![Projects](https://github.com/user-attachments/assets/bc889331-2118-41c6-8ad4-2c39778aa22e)
+## ![Projects](https://github.com/user-attachments/assets/d3503832-c085-4c47-ab3e-61ab60c58621)
 
-![DeepReader project, technologies and four implementation highlights](https://github.com/user-attachments/assets/f6b89d1c-5952-4a98-a761-ce3851681a2f)
+![DeepReader project, technologies and four implementation highlights](https://github.com/user-attachments/assets/4d4cc65b-c02e-4f13-b1ea-f5c5025a50e0)
 
 [Explore DeepReader on GitHub →](https://github.com/23520904/deepreader)
 
-## ![My toolkit: 26 technologies orbiting one sun](https://github.com/user-attachments/assets/976d8b12-3d20-4d48-a896-c1de13161866)
+## ![My toolkit: 26 technologies orbiting one sun](https://github.com/user-attachments/assets/365b094a-b96d-42f3-8e17-feb18be86721)
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:155E75,100:22D3EE&amp;height=90&amp;section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:155E75,100:22D3EE&amp;height=48&amp;section=footer" width="100%" alt="" />
