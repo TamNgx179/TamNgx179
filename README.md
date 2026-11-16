@@ -17,14 +17,25 @@
 
 ## ![About Me](https://github.com/user-attachments/assets/393bbde5-833d-4d69-aa90-d93f6daa8c4f)
 
-I'm an **Information Technology student at UIT — VNUHCM**, graduating in **June 2027**. I build backend services, full-stack applications, and AI-powered workflows that connect useful ideas to working products.
+IT student at **UIT, VNUHCM** (June 2027). I build backend APIs, full-stack apps, and AI workflows.
+
+<details>
+<summary>More about me</summary>
 
 - ⚙️ My focus: **APIs, asynchronous processing, and reliable backend systems**.
 - 🤖 My AI work: **RAG applications, document processing, and developer tooling**.
 - 🤝 I enjoy thoughtful teamwork, clean engineering, and learning by building.
 - 💬 Comfortable collaborating and communicating in **English**.
 
+</details>
+
 ## ![Experience](https://github.com/user-attachments/assets/c8945043-f7c1-4b4e-9155-55c355206947)
+
+- **AlphaSphere** — Fullstack Developer Intern (Jul–Oct 2026)
+- **HONEYNET** — Backend Developer Intern (Jan–Jun 2026)
+
+<details>
+<summary>Work highlights and tech stacks</summary>
 
 ### AlphaSphere | Fullstack Developer Intern
 
@@ -58,7 +69,14 @@ I'm an **Information Technology student at UIT — VNUHCM**, graduating in **Jun
 - Designed **PostgreSQL data models and backend services** for news/events, donation activities, activity search, and comment approval workflows.
 - Built **real-time notification APIs** with robust request validation for application submission workflows, improving consistency and reliability of backend request handling.
 
+</details>
+
 ## ![Projects](https://github.com/user-attachments/assets/bc889331-2118-41c6-8ad4-2c39778aa22e)
+
+**[DeepReader](https://github.com/23520904/deepreader)** — Ask questions about a PDF or EPUB and turn it into summaries and flashcards.
+
+<details>
+<summary>DeepReader build details</summary>
 
 ### DeepReader — AI-Powered Reading Platform
 
@@ -81,7 +99,7 @@ Upload a PDF or EPUB, ask questions grounded in its content, and turn what you r
 - Implemented **Redis-backed rate limiting** to protect AI inference and authentication endpoints, enforcing differentiated request quotas based on API workload.
 - Optimized **Next.js page performance and SEO**, achieving **90+ Lighthouse scores** across mobile and desktop and reaching top-five Google Search results for selected target keywords.
 
-[Explore the repository →](https://github.com/23520904/deepreader)
+</details>
 
 ## ![My toolkit: 26 technologies orbiting one sun](https://github.com/user-attachments/assets/976d8b12-3d20-4d48-a896-c1de13161866)
 
