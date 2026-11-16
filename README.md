@@ -17,25 +17,20 @@
 
 ## ![About Me](https://github.com/user-attachments/assets/393bbde5-833d-4d69-aa90-d93f6daa8c4f)
 
-![About me, including education, backend and AI interests, and teamwork](https://github.com/user-attachments/assets/d3c6e0eb-e7a7-47d7-8ee8-29cb0493e860)
+![IT student at UIT (June 2027) building backend APIs, full-stack apps, and AI tools.](https://github.com/user-attachments/assets/e7ee1508-9f70-4b24-9b16-70d7935f6dbd)
 
 ## ![Experience](https://github.com/user-attachments/assets/c8945043-f7c1-4b4e-9155-55c355206947)
 
-![Full work experience timeline for AlphaSphere and HONEYNET](https://github.com/user-attachments/assets/dab4b21a-a60e-4fff-a2ac-d89c2b151fcb)
+![Full work experience timeline for AlphaSphere and HONEYNET](https://github.com/user-attachments/assets/a7eb6ba8-a9fc-42cf-a886-d9e18962f453)
 
 ## ![Projects](https://github.com/user-attachments/assets/bc889331-2118-41c6-8ad4-2c39778aa22e)
 
-![DeepReader project, technologies and four implementation highlights](https://github.com/user-attachments/assets/ec7d225a-311c-4aa8-b323-995640f4d6a4)
+![DeepReader project, technologies and four implementation highlights](https://github.com/user-attachments/assets/0509c62e-7d30-4795-bcf8-3880469e24d2)
 
 [Explore DeepReader on GitHub →](https://github.com/23520904/deepreader)
 
 ## ![My toolkit: 26 technologies orbiting one sun](https://github.com/user-attachments/assets/976d8b12-3d20-4d48-a896-c1de13161866)
 
 ---
-
-<p align="center">
-  <b>Have something interesting to build? Let's talk.</b><br />
-  <a href="mailto:minhtam1792005@gmail.com">minhtam1792005@gmail.com</a>
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:155E75,100:22D3EE&amp;height=90&amp;section=footer" width="100%" alt="" />
