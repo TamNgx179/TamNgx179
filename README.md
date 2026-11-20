@@ -15,9 +15,7 @@
 
 ---
 
-## About Me
-
-I'm an **IT student at UIT, VNUHCM**, graduating in **June 2027**, building backend APIs, full-stack apps, and AI workflows.
+![About Me: IT student at UIT, VNUHCM, graduating June 2027. Building backend APIs, full-stack applications and AI workflows. Interests include asynchronous processing, reliable systems, RAG, document processing and developer tools. I enjoy teamwork and learning by building, and communicate comfortably in English.](https://github.com/user-attachments/assets/da12c6bf-5b82-4644-8eb1-d7d5c0708cd5)
 
 ## ![Experience](https://github.com/user-attachments/assets/c3e5f7f6-62a5-4c65-9159-b806a33f0cac)
 
