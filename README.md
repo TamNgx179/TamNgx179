@@ -15,7 +15,7 @@
 
 ---
 
-![About Me: IT student at UIT, VNUHCM, graduating June 2027. Building backend APIs, full-stack applications and AI workflows. Interests include asynchronous processing, reliable systems, RAG, document processing and developer tools. I enjoy teamwork and learning by building, and communicate comfortably in English.](https://github.com/user-attachments/assets/87a6c834-cb61-46cc-b82d-fa9fa61b8af1)
+![About Me: IT student at UIT, VNUHCM, graduating June 2027. Building backend APIs, full-stack applications and AI workflows. Interested in system design, backend architecture and distributed systems. Building AI-Harness, AI-native workflows and developer tooling. I enjoy teamwork and learning by building, and communicate comfortably in English.](https://github.com/user-attachments/assets/5bc0a51d-387e-446b-a6a6-6acd8cde6b66)
 
 ![Experience: Full work experience timeline for AlphaSphere and HONEYNET](https://github.com/user-attachments/assets/6cc4bafb-b6a1-4a01-9e21-61f017f5f7e5)
 
