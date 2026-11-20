@@ -15,11 +15,9 @@
 
 ---
 
-![About Me: IT student at UIT, VNUHCM, graduating June 2027. Building backend APIs, full-stack applications and AI workflows. Interests include asynchronous processing, reliable systems, RAG, document processing and developer tools. I enjoy teamwork and learning by building, and communicate comfortably in English.](https://github.com/user-attachments/assets/da12c6bf-5b82-4644-8eb1-d7d5c0708cd5)
+![About Me: IT student at UIT, VNUHCM, graduating June 2027. Building backend APIs, full-stack applications and AI workflows. Interests include asynchronous processing, reliable systems, RAG, document processing and developer tools. I enjoy teamwork and learning by building, and communicate comfortably in English.](https://github.com/user-attachments/assets/87a6c834-cb61-46cc-b82d-fa9fa61b8af1)
 
-## ![Experience](https://github.com/user-attachments/assets/c3e5f7f6-62a5-4c65-9159-b806a33f0cac)
-
-![Full work experience timeline for AlphaSphere and HONEYNET](https://github.com/user-attachments/assets/8da7b658-ed61-43fc-a786-f45cbcc157d9)
+![Experience: Full work experience timeline for AlphaSphere and HONEYNET](https://github.com/user-attachments/assets/6cc4bafb-b6a1-4a01-9e21-61f017f5f7e5)
 
 ## ![My toolkit: 26 technologies orbiting one sun](https://github.com/user-attachments/assets/365b094a-b96d-42f3-8e17-feb18be86721)
 
