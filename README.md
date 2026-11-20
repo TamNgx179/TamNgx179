@@ -15,15 +15,13 @@
 
 ---
 
+## About Me
+
+I'm an **IT student at UIT, VNUHCM**, graduating in **June 2027**, building backend APIs, full-stack apps, and AI workflows.
+
 ## ![Experience](https://github.com/user-attachments/assets/c3e5f7f6-62a5-4c65-9159-b806a33f0cac)
 
 ![Full work experience timeline for AlphaSphere and HONEYNET](https://github.com/user-attachments/assets/8da7b658-ed61-43fc-a786-f45cbcc157d9)
-
-## ![Projects](https://github.com/user-attachments/assets/d3503832-c085-4c47-ab3e-61ab60c58621)
-
-![DeepReader project, technologies and four implementation highlights](https://github.com/user-attachments/assets/4d4cc65b-c02e-4f13-b1ea-f5c5025a50e0)
-
-[Explore DeepReader on GitHub →](https://github.com/23520904/deepreader)
 
 ## ![My toolkit: 26 technologies orbiting one sun](https://github.com/user-attachments/assets/365b094a-b96d-42f3-8e17-feb18be86721)
 
