@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:155E75,100:22D3EE&amp;height=132&amp;section=header&amp;text=Nguyen%20Minh%20Tam&amp;fontSize=34&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=Software%20Engineer&amp;descSize=16&amp;descAlignY=64&amp;animation=fadeIn" width="100%" alt="Nguyen Minh Tam — Software Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:155E75,100:22D3EE&amp;height=200&amp;section=header&amp;text=Nguyen%20Minh%20Tam&amp;fontSize=48&amp;fontColor=FFFFFF&amp;fontAlignY=40&amp;desc=Software%20Engineer&amp;descSize=25&amp;descAlignY=67&amp;animation=fadeIn" width="100%" alt="Nguyen Minh Tam — Software Engineer" />
 </p>
 
 <p align="center">
